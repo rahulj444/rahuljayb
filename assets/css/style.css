@@ -94,6 +94,10 @@
   border-radius: 5px;
   -webkit-border-radius: 5px;
 }
+.readme:hover{
+  color: #00796b;
+  background-color: white;
+}
 
 /* .readme:hover{
   color: white;
